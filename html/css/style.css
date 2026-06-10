@@ -53,6 +53,22 @@ body {
       vertical-align: middle;
       padding: 16px 8px;
     }
+    .status-success {
+      background-color: #ecfdf5;
+      color: #059669;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+    }
+    .status-danger{
+      background-color: #fef2f2;
+      color: #dc2626;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+    }
     .btn-primary {
       background-color: #2563eb;
       border: none;
